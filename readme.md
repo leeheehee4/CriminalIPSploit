@@ -8,8 +8,6 @@ If you are rather looking for a simpler quick mass scan on whether the IP is saf
 
 ## Prerequisites 🔓
 
-  
-
 You need Criminal IP API Key from criminalip.io 🔑
 
 > [!NOTE]
@@ -30,14 +28,14 @@ $ pip install -r requirements.txt
 
 1️⃣ Put it in `api_key.txt` like this, *or*
 
-![api_key text file](image-2024-8-23_11-23-13.png)
+![api_key text file](https://github.com/user-attachments/assets/849828fa-ed43-4e1a-8084-45ce9d20743a)
+
 
 2️⃣ type it directly in the **Terminal** !
 
-![terminal](image-2024-8-23_11-24-46.png)
+![terminal](https://github.com/user-attachments/assets/53345ca2-5e62-40b8-9f86-40481901f9f1)
 
   
-
 ## Run
  Run the attached python script!
 ```
@@ -67,10 +65,8 @@ $ python criminalipsploit.py
 
 ## Example Images 📝
 
-  
+![example1](https://github.com/user-attachments/assets/f14a4604-e43b-4fd4-aafa-3ab2bc1ff652)
 
-![example1](image-2024-8-23_11-36-17.png)
+![example2](https://github.com/user-attachments/assets/830d3b44-f94f-4e6f-89c3-0279780b4320)
 
-![example2](image-2024-8-23_11-37-6.png)
-
-![example3](image-2024-8-23_11-37-46.png)
+![example3](https://github.com/user-attachments/assets/a17766b7-d39e-4a28-9db9-1a68d873a393)
