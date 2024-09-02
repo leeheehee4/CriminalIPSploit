@@ -8,7 +8,7 @@ If you are rather looking for a simpler quick mass scan on whether the IP is saf
 
 ## Prerequisites 🔓
 
-You need Criminal IP API Key from criminalip.io 🔑
+You need Criminal IP API Key from [criminalip.io](https://criminalip.io/) 🔑
 
 > [!NOTE]
 > I personally use this a lot because I'm using paid subscription 💀
